@@ -1,6 +1,6 @@
 # Gruvbox Solitude for Omarchy
 
-A dark, low-contrast Omarchy theme pairing the classic [Gruvbox](https://github.com/morhetz/gruvbox) palette with near-black "solitude" backgrounds. Muted grey accents, warm paper-white foregrounds, and a burnt-orange selection keep it easy on the eyes for long sessions.
+A dark, low-contrast Omarchy theme pairing the classic [Gruvbox](https://github.com/morhetz/gruvbox) color palette with near-black Omarchy Solitude backgrounds and accents.
 
 ## Preview
 
